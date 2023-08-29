@@ -54,7 +54,7 @@
         <img class="max-h-40 w-full object-cover" alt="featured image" src="../assets/img/34.jpg" />
         <div class="w-full bg-white p-4">
           <p class="text-md font-medium text-indigo-500">Gardening</p>
-          <p class="mb-2 text-xl font-medium text-gray-800">Sunflowers are my favorite</p>
+          <p class="mb-2 text-xl font-medium text-gray-800">Bub Ble</p>
           <p class="text-md font-light text-gray-400">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse vel neque ipsam?</p>
           <div class="justify-starts mt-4 flex flex-wrap items-center">
             <div class="mr-2 mt-1 rounded-2xl bg-blue-100 py-1.5 px-4 text-xs text-gray-600">#js</div>
@@ -68,8 +68,8 @@
       <a href="#" class="block h-full w-full">
         <img class="max-h-40 w-full object-cover" alt="featured image" src="../assets/img/33.jpg" />
         <div class="w-full bg-white p-4">
-          <p class="text-md font-medium text-indigo-500">Coding</p>
-          <p class="mb-2 text-xl font-medium text-gray-800">Getting to know the Ice Factory Pattern</p>
+          <p class="text-md font-medium text-indigo-500">Crem</p>
+          <p class="mb-2 text-xl font-medium text-gray-800"> caliray</p>
           <p class="text-md font-light text-gray-400">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse vel neque ipsam?</p>
           <div class="justify-starts mt-4 flex flex-wrap items-center">
             <div class="mr-2 mt-1 rounded-2xl bg-blue-100 py-1.5 px-4 text-xs text-gray-600">#js</div>
